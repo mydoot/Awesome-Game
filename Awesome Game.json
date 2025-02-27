@@ -137,6 +137,22 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Settings UI/Slider/2f9378611f391b8228cac337e39ecacacd720b59716e7dd9e56cce73adb60f69_Small Plastic Green Square Slider Thumb.png",
           "name": "Small Plastic Green Square Slider Thumb.png"
         }
+      },
+      {
+        "file": "../../../Downloads/werewolf shirt.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\Downloads\\werewolf shirt.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "werewolf shirt2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "werewolf shirt2.jpg",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
