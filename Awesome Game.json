@@ -179,26 +179,26 @@
         "userAdded": false
       },
       {
-        "file": "character2.png",
+        "file": "TX Tileset Stone Ground2.png",
         "kind": "image",
         "metadata": "",
-        "name": "character2.png",
+        "name": "TX Tileset Stone Ground2.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "character3.png",
+        "file": "TX Struct.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"character3.png\",\"extension\":\".png\"}",
-        "name": "character3.png",
+        "metadata": "",
+        "name": "TX Struct.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "character3-removebg-preview.png",
+        "file": "TX Props.png",
         "kind": "image",
-        "metadata": "{\"localFilePath\":\"character3-removebg-preview.png\",\"extension\":\".png\"}",
-        "name": "character3-removebg-preview.png",
+        "metadata": "",
+        "name": "TX Props.png",
         "smoothed": false,
         "userAdded": false
       }
