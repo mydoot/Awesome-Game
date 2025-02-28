@@ -305,6 +305,38 @@
         "name": "left arm forward4.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "werewolf shirt.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "werewolf shirt.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/dodging.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "dodging",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/hello-kitty.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\hello-kitty.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "../../../../Downloads/rowley.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "..\\..\\..\\..\\Downloads\\rowley.jpg",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
