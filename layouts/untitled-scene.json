@@ -168,12 +168,12 @@
           "IsCalledManually": false
         },
         {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
           "acceleration": 500,
           "deceleration": 1000000,
           "maxSpeed": 500,
-          "name": "TopDownMovement",
           "rotateObject": false,
-          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
           "allowDiagonals": true,
           "angleOffset": 0,
           "angularMaxSpeed": 180,
@@ -185,7 +185,7 @@
       ],
       "animations": [
         {
-          "name": "character",
+          "name": "character3-removebg-preview",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -195,7 +195,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "character",
+                  "image": "character3-removebg-preview.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -211,20 +211,20 @@
                   "customCollisionMask": [
                     [
                       {
-                        "x": 0,
-                        "y": 0
+                        "x": 55,
+                        "y": 11
                       },
                       {
-                        "x": 50,
-                        "y": 0
+                        "x": 443,
+                        "y": 11
                       },
                       {
-                        "x": 50,
-                        "y": 50
+                        "x": 443,
+                        "y": 489
                       },
                       {
-                        "x": 0,
-                        "y": 50
+                        "x": 55,
+                        "y": 489
                       }
                     ]
                   ]
