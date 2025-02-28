@@ -185,16 +185,17 @@
       ],
       "animations": [
         {
-          "name": "",
+          "name": "character",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
+              "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "werewolf shirt2.jpg",
+                  "image": "character",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -214,16 +215,16 @@
                         "y": 0
                       },
                       {
-                        "x": 680,
+                        "x": 50,
                         "y": 0
                       },
                       {
-                        "x": 680,
-                        "y": 870
+                        "x": 50,
+                        "y": 50
                       },
                       {
                         "x": 0,
-                        "y": 870
+                        "y": 50
                       }
                     ]
                   ]

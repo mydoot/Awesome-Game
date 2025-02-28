@@ -161,6 +161,22 @@
         "name": "TX Tileset Grass.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "character.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "character.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/character.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "character",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
