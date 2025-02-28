@@ -201,6 +201,110 @@
         "name": "TX Props.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "right arm forward.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"right arm forward.png\",\"extension\":\".png\"}",
+        "name": "right arm forward.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "normal.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"normal.png\",\"extension\":\".png\"}",
+        "name": "normal.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "left arm forward.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"left arm forward.png\",\"extension\":\".png\"}",
+        "name": "left arm forward.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "normal2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "normal2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "right arm forward2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "right arm forward2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "normal3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "normal3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "left arm forward2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "left arm forward2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "right arm forward3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "right arm forward3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "normal4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "normal4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "left arm forward3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "left arm forward3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "right arm forward4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"right arm forward4.png\",\"extension\":\".png\"}",
+        "name": "right arm forward4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "normal5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"normal5.png\",\"extension\":\".png\"}",
+        "name": "normal5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "left arm forward4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"left arm forward4.png\",\"extension\":\".png\"}",
+        "name": "left arm forward4.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
