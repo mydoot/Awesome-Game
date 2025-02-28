@@ -153,6 +153,14 @@
         "name": "werewolf shirt2.jpg",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "TX Tileset Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TX Tileset Grass.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
