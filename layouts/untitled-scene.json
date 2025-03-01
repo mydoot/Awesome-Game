@@ -18,7 +18,7 @@
     "gridColor": 10401023,
     "gridAlpha": 0.8,
     "snap": false,
-    "zoomFactor": 0.9610368693714757,
+    "zoomFactor": 1.1343715797160994,
     "windowMask": false
   },
   "objectsGroups": [],
@@ -93,7 +93,7 @@
       "name": "HeartScrollBar",
       "persistentUuid": "60997ad9-f01a-4291-8f88-d7482cbbf4e5",
       "width": 282,
-      "x": 6,
+      "x": 7,
       "y": 16,
       "zOrder": 8,
       "numberProperties": [],
@@ -786,21 +786,6 @@
     },
     {
       "assetStoreId": "",
-      "name": "Structures",
-      "type": "TileMap::SimpleTileMap",
-      "variables": [],
-      "effects": [],
-      "behaviors": [],
-      "content": {
-        "atlasImage": "TX Struct.png",
-        "rowCount": 16,
-        "columnCount": 16,
-        "tileSize": 32,
-        "tilesWithHitBox": ""
-      }
-    },
-    {
-      "assetStoreId": "",
       "name": "Props",
       "type": "TileMap::SimpleTileMap",
       "variables": [],
@@ -884,7 +869,7 @@
           "useLegacyBottomAndRightAnchors": false
         }
       ],
-      "string": "HEALTH",
+      "string": "Health Bar",
       "font": "d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
       "textAlignment": "left",
       "characterSize": 30,
@@ -907,7 +892,7 @@
         "shadowOpacity": 127,
         "smoothed": true,
         "underlined": false,
-        "text": "HEALTH",
+        "text": "Health Bar",
         "font": "d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
         "textAlignment": "left",
         "verticalTextAlignment": "top",
@@ -993,9 +978,6 @@
       },
       {
         "objectName": "player"
-      },
-      {
-        "objectName": "Structures"
       },
       {
         "objectName": "HeartScrollBar"
