@@ -339,6 +339,7 @@
         "userAdded": false
       },
       {
+<<<<<<< HEAD
         "file": "assets/Scroll Empty Heart.png",
         "kind": "image",
         "metadata": "",
@@ -390,22 +391,50 @@
         "kind": "image",
         "metadata": "",
         "name": "TX Tileset Stone Ground.png",
+=======
+        "file": "idle 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle 2.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       },
       {
+<<<<<<< HEAD
         "file": "sign.png",
         "kind": "image",
         "metadata": "",
         "name": "sign.png",
+=======
+        "file": "idle 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle 3.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       },
       {
+<<<<<<< HEAD
         "file": "sign for gdev.png",
         "kind": "image",
         "metadata": "",
         "name": "sign for gdev.png",
+=======
+        "file": "back 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "back 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "back 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "back 2.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       }
