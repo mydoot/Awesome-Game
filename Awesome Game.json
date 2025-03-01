@@ -337,6 +337,58 @@
         "name": "..\\..\\..\\..\\Downloads\\rowley.jpg",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "monkeything.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "monkeything.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/collision_box.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "collision_box",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/collision_box2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "collision_box2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "staff.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "staff.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Sword.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sword.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Weapons/50a738319958d5049ce592a865b5684649ea0a967e152b323d1579559b224bfd_Sword.png",
+          "name": "Sword.png"
+        }
+      },
+      {
+        "file": "angry_emoji_face_300_nwm.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "angry_emoji_face_300_nwm.jpg",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
