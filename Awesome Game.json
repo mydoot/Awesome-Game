@@ -339,22 +339,89 @@
         "userAdded": false
       },
       {
+<<<<<<< HEAD
+        "file": "assets/Scroll Empty Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll Empty Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/f0aea5b9b3e205bd734be9061f0c8b7ecec83ee5c3e9e99d2cb2b6f1c724feb1_Scroll Empty Heart.png",
+          "name": "Scroll Empty Heart.png"
+        }
+      },
+      {
+        "file": "assets/Scroll Full Heart.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll Full Heart.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/724e875009329b18b3333082c0890b142288a9d8f17a084d2982c4ff0ab4be43_Scroll Full Heart.png",
+          "name": "Scroll Full Heart.png"
+        }
+      },
+      {
+        "file": "assets/Scroll.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Scroll.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/a1f71ca4cfb367163f7e3c16fbf0f60da08de326f00249881ff1057f63789c95_Scroll.png",
+          "name": "Scroll.png"
+        }
+      },
+      {
+        "file": "assets/Kenney Mini Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/d73fbc705487707ea61faa2b865e21e3b24bea3319f75c2a124ad13bcae99ab4_Kenney Mini Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "TX Tileset Stone Ground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "TX Tileset Stone Ground.png",
+=======
         "file": "idle 2.png",
         "kind": "image",
         "metadata": "",
         "name": "idle 2.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       },
       {
+<<<<<<< HEAD
+        "file": "sign.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sign.png",
+=======
         "file": "idle 3.png",
         "kind": "image",
         "metadata": "",
         "name": "idle 3.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       },
       {
+<<<<<<< HEAD
+        "file": "sign for gdev.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "sign for gdev.png",
+=======
         "file": "back 1.png",
         "kind": "image",
         "metadata": "",
@@ -367,6 +434,7 @@
         "kind": "image",
         "metadata": "",
         "name": "back 2.png",
+>>>>>>> main
         "smoothed": false,
         "userAdded": false
       }
@@ -394,6 +462,14 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/tiledunitsbar"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/shakeobject"
     }
   ],
   "externalLayouts": []
