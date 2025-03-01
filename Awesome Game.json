@@ -337,6 +337,38 @@
         "name": "..\\..\\..\\..\\Downloads\\rowley.jpg",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "idle 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle 2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "idle 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "idle 3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "back 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "back 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "back 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "back 2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
