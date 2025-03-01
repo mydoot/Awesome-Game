@@ -22,7 +22,13 @@
     "windowMask": false
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "attack",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "instances": [
     {
       "angle": 0,
@@ -698,6 +704,42 @@
                       }
                     ]
                   ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "angry_emoji_face_300_nwm.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 48,
+                        "y": 10
+                      },
+                      {
+                        "x": 442,
+                        "y": 10
+                      },
+                      {
+                        "x": 442,
+                        "y": 495
+                      },
+                      {
+                        "x": 48,
+                        "y": 495
+                      }
+                    ]
+                  ]
                 }
               ]
             }
@@ -715,6 +757,42 @@
                 {
                   "hasCustomCollisionMask": true,
                   "image": "..\\..\\..\\..\\Downloads\\rowley.jpg",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 48,
+                        "y": 10
+                      },
+                      {
+                        "x": 442,
+                        "y": 10
+                      },
+                      {
+                        "x": 442,
+                        "y": 495
+                      },
+                      {
+                        "x": 48,
+                        "y": 495
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "monkeything.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -957,6 +1035,17 @@
         "characterSize": 10,
         "color": "0;0;0"
       }
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "Sword",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": []
     }
   ],
   "objectsFolderStructure": {
@@ -992,42 +1081,14 @@
         "objectName": "Props"
       },
       {
+        "objectName": "Sword"
+      },
+      {
         "objectName": "Stone"
       }
     ]
   },
   "events": [
-    {
-      "type": "BuiltinCommonInstructions::Standard",
-      "conditions": [
-        {
-          "type": {
-            "value": "DepartScene"
-          },
-          "parameters": [
-            ""
-          ]
-        }
-      ],
-      "actions": [
-        {
-          "type": {
-            "value": "ShakeObject::ShakeObject_PositionAngle::ShakeObject_PositionAngle"
-          },
-          "parameters": [
-            "Sign_Text",
-            "ShakeObject_PositionAngle",
-            "1",
-            "10",
-            "",
-            "",
-            "1",
-            "",
-            ""
-          ]
-        }
-      ]
-    },
     {
       "colorB": 228,
       "colorG": 176,
@@ -1317,6 +1378,25 @@
             "\"attacking\""
           ]
         }
+      ],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
       ]
     },
     {
@@ -1345,6 +1425,99 @@
           ]
         }
       ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "MettreXY"
+          },
+          "parameters": [
+            "Sword",
+            "=",
+            "player.PointX(\"Sword\")",
+            "=",
+            "player.PointY(\"Sword\")"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "player",
+            "<",
+            "CursorX()"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "player",
+            "Flippable",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "player",
+            ">",
+            "CursorX()"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "FlippableCapability::FlippableBehavior::FlipX"
+          },
+          "parameters": [
+            "player",
+            "Flippable",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "NumberVariable"
+          },
+          "parameters": [
+            "attack",
+            "=",
+            "0"
+          ]
+        }
+      ],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
     }
   ],
   "layers": [

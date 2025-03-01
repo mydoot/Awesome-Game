@@ -408,6 +408,22 @@
         "name": "sign for gdev.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "angry_emoji_face_300_nwm.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "angry_emoji_face_300_nwm.jpg",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "monkeything.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "monkeything.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
