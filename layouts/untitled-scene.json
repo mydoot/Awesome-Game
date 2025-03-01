@@ -671,42 +671,6 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "werewolf shirt.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 48,
-                        "y": 10
-                      },
-                      {
-                        "x": 442,
-                        "y": 10
-                      },
-                      {
-                        "x": 442,
-                        "y": 495
-                      },
-                      {
-                        "x": 48,
-                        "y": 495
-                      }
-                    ]
-                  ]
-                },
-                {
-                  "hasCustomCollisionMask": true,
                   "image": "angry_emoji_face_300_nwm.jpg",
                   "points": [],
                   "originPoint": {
@@ -754,42 +718,6 @@
               "metadata": "{\"pskl\":{}}",
               "timeBetweenFrames": 0.08,
               "sprites": [
-                {
-                  "hasCustomCollisionMask": true,
-                  "image": "..\\..\\..\\..\\Downloads\\rowley.jpg",
-                  "points": [],
-                  "originPoint": {
-                    "name": "origine",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "centerPoint": {
-                    "automatic": true,
-                    "name": "centre",
-                    "x": 0,
-                    "y": 0
-                  },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 48,
-                        "y": 10
-                      },
-                      {
-                        "x": 442,
-                        "y": 10
-                      },
-                      {
-                        "x": 442,
-                        "y": 495
-                      },
-                      {
-                        "x": 48,
-                        "y": 495
-                      }
-                    ]
-                  ]
-                },
                 {
                   "hasCustomCollisionMask": true,
                   "image": "monkeything.png",
