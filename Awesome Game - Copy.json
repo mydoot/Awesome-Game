@@ -19,7 +19,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-    "name": "Awesome Game",
+    "name": "Awesome Game - Copy",
     "description": "",
     "author": "",
     "windowWidth": 1280,
@@ -391,138 +391,106 @@
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame2.png",
+        "file": "assets/attackhitbox.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Slash_color2_frame2.png",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attackhitbox",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame3.png",
+        "file": "assets/attackhitbox2.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Slash_color2_frame3.png",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attackhitbox2",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame4.png",
+        "file": "assets/attackhitbox3.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Slash_color2_frame4.png",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/attackhitbox3.png\"}",
+        "name": "attackhitbox3",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame5.png",
+        "file": "assets/attackhitbox4.png",
         "kind": "image",
-        "metadata": "",
-        "name": "Slash_color2_frame5.png",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "attackhitbox4",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame6.png",
+        "file": "frames/Slash3_color1_frame1.png",
         "kind": "image",
         "metadata": "",
-        "name": "Slash_color2_frame6.png",
+        "name": "frames\\Slash3_color1_frame1.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame7.png",
+        "file": "frames/Slash3_color1_frame2.png",
         "kind": "image",
         "metadata": "",
-        "name": "Slash_color2_frame7.png",
+        "name": "frames\\Slash3_color1_frame2.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame8.png",
+        "file": "frames/Slash3_color1_frame3.png",
         "kind": "image",
         "metadata": "",
-        "name": "Slash_color2_frame8.png",
+        "name": "frames\\Slash3_color1_frame3.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "Slash_color2_frame9.png",
+        "file": "frames/Slash3_color1_frame4.png",
         "kind": "image",
         "metadata": "",
-        "name": "Slash_color2_frame9.png",
+        "name": "frames\\Slash3_color1_frame4.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "frames/Slash_color2_frame6.png",
+        "file": "frames/Slash3_color1_frame5.png",
         "kind": "image",
         "metadata": "",
-        "name": "frames\\Slash_color2_frame6.png",
+        "name": "frames\\Slash3_color1_frame5.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "frames/Slash_color2_frame1.png",
+        "file": "frames/Slash3_color1_frame6.png",
         "kind": "image",
         "metadata": "",
-        "name": "frames\\Slash_color2_frame1.png",
+        "name": "frames\\Slash3_color1_frame6.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "frames/Slash_color2_frame2.png",
+        "file": "frames/Slash3_color1_frame7.png",
         "kind": "image",
         "metadata": "",
-        "name": "frames\\Slash_color2_frame2.png",
+        "name": "frames\\Slash3_color1_frame7.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "frames/Slash_color2_frame3.png",
+        "file": "frames/Slash3_color1_frame8.png",
         "kind": "image",
         "metadata": "",
-        "name": "frames\\Slash_color2_frame3.png",
+        "name": "frames\\Slash3_color1_frame8.png",
         "smoothed": false,
         "userAdded": false
       },
       {
-        "file": "frames/Slash_color2_frame4.png",
+        "file": "frames/Slash3_color1_frame9.png",
         "kind": "image",
         "metadata": "",
-        "name": "frames\\Slash_color2_frame4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "frames/Slash_color2_frame5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frames\\Slash_color2_frame5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "frames/Slash_color2_frame7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frames\\Slash_color2_frame7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "frames/Slash_color2_frame8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frames\\Slash_color2_frame8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "file": "frames/Slash_color2_frame9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "frames\\Slash_color2_frame9.png",
+        "name": "frames\\Slash3_color1_frame9.png",
         "smoothed": false,
         "userAdded": false
       }
